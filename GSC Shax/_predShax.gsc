@@ -5,6 +5,7 @@
     How to use:
 
     Initialize these variables:
+    	self.camo = whatevercamoyouwant;
         self.nonPredShaxWeapon = false;
         self.exagShax = false;
         self.instantPredCrash = false;
