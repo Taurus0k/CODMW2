@@ -1,6 +1,7 @@
 /*
     Pred Shax System by Antiga (https://twitter.com/mp_rust)
         - Credits to Jepe (https://twitter.com/jepex) & Magenta (https://twitter.com/ohjain) for doing this first.
+	- Tutorial on how it is used in-game: https://youtu.be/XVWO_AqTi2k
     
     How to use:
 
