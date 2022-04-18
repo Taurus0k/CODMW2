@@ -1,7 +1,7 @@
 /*
     Dvar Method for Big Scoping - This was in the older version of BASH, people got ahold of it or figured it out..
 
-    player.pers["help_me_scope"] = undefined; - Call this on playerconnect.
+    player.pers["help_me_scope"] = false; - Call this on playerconnect.
 
     Call this On PlayerSpawn so it sticks throughout rounds:
     if(self.pers["help_me_scope"])
