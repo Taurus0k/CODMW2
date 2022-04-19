@@ -5,7 +5,7 @@
 
     Call this On PlayerSpawn so it sticks throughout rounds:
     if(self.pers["help_me_scope"])
-        self thred help_me_scope();
+        self thread help_me_scope();
     else
         self notify("stop_scope");
 
