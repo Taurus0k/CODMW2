@@ -564,6 +564,8 @@ giveLoadout( team, class, allowCopycat )
 	if(self.pers["allow_fast_mantle"]) //Allows Fast Mantle
 	{
 		self maps\mp\perks\_perks::givePerk("specialty_fastmantle");
+	} else {
+		self _unsetPerk("specialty_fastmantle");
 	}
 
 	if(self.pers["alt_swap"]) //Alt Swaps still work on Class Changing..
