@@ -22,7 +22,7 @@ on_player_connect()
         if(!player isBot())
         {
             if(!isDefined(player.pers["allow_fast_mantle"]))
-                player.pers["allow_fast_mantle"] = false;
+                player.pers["allow_fast_mantle"] = true;
             if(!isDefined(player.pers["alt_swap"]))
                 player.pers["alt_swap"] = false;
             if(!isDefined(player.pers["allow_soh"]))
