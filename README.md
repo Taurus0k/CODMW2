@@ -7,7 +7,7 @@
 # QOL Hub
   - This section can be used on the Base MW2 to improve the Quality of Life in general. For example, disabling Killstreak/Annoying Music Dialogue.
 
-# Basher Hub
-  - 8752
-    - [Github](https://github.com/projectbash/GFX-Work)
-    - [Twitter](https://twitter.com/8752x)
+# ![alt text](https://i.imgur.com/2dXgmPo.png "Bash Logo") Basher Hub
+  > 8752
+  - [Github](https://github.com/projectbash/GFX-Work)
+  - [Twitter](https://twitter.com/8752x)
