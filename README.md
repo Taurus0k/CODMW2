@@ -10,4 +10,4 @@
 # Basher Hub
   > 8752
   >> [Github](https://github.com/projectbash/GFX-Work)
-  >> [Twitter](https://twitter.com/8752x)
+  >>> [Twitter](https://twitter.com/8752x)
