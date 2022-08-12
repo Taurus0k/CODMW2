@@ -1,4 +1,4 @@
-# CODMW2 GSC Hub
+# Antiga's GSC Hub
   - I plan on releasing quality content for the Trickshotting community to utilize.
   
 # Azza Hub
