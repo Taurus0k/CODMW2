@@ -32,7 +32,7 @@ toggle_music_sounds()
     usedKillstreak & giveOwnedKillstreakItem are the functions we will be replacing.
 		- If you are using IW4X, please use: replaceFunc(maps\mp\killstreaks\_killstreaks::usedKillstreak, ::usedKillstreak);
 		- If you are using IW4X, please use: replaceFunc(maps\mp\killstreaks\_killstreaks::giveOwnedKillstreakItem, ::giveOwnedKillstreakItem);
-			- If you are using Console, just copy and replace the function in the respective spot.
+		- If you are using Console, just copy and replace the function in the respective spot.
 */
 
 usedKillstreak( streakName, awardXp )
@@ -89,7 +89,7 @@ giveOwnedKillstreakItem( skipDialog )
 /*
     musicController is the function we will be replacing.
 		- If you are using IW4X, please use: replaceFunc(maps\mp\gametypes\_music_and_dialog::musicController, ::musicController);
-			- If you are using Console, just copy and replace the function in the respective spot.
+		- If you are using Console, just copy and replace the function in the respective spot.
 */
 
 musicController()
